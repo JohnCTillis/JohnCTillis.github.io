@@ -1,0 +1,3 @@
+[submodule "johns-modern-website"]
+	path = johns-modern-website
+	url = https://github.com/johnctillis/my-modern-website-template
