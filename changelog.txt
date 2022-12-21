@@ -1,3 +1,0 @@
-Version: 0.1.02
-  - made the first release of this page
-
