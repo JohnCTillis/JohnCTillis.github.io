@@ -1,3 +1,6 @@
 [submodule "johns-modern-website"]
 	path = johns-modern-website
 	url = https://github.com/johnctillis/my-modern-website-template
+[submodule "phaser-game"]
+	path = phaser-game
+	url = https://github.com/JohnCTillis/phaser-game
